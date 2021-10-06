@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "男木島コワーキング",
+        "description": "男木島で働きたい人たちが使えるかもしれない場所 ",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.056555,
+          34.422824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "鍬と本",
+        "description": "<a href=\"https://hoe-book.com/\">ワーケーションならここです</a>。きれいな景色のところに泊まれます。仕事が進むよ！",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.055165,
+          34.421866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ダモンテ商会",
+        "description": "おいしいケーキとコーヒーとイノシシ肉ときれいな建物。<br><a href=\"https://damonte.co\">ウェブサイトはこちら</a>",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.055104,
+          34.422323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "男木島図書館",
+        "description": "本を読みながらコーヒーを飲んでしまおう",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.055377,
+          34.42136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "象と太陽社",
+        "description": "髪の毛を切ってもらいながらモヒートが飲めます",
+        "marker-size": "",
+        "marker-color": "#00FF00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.055442,
+          34.422881
+        ]
+      }
+    }
+  ]
+}
